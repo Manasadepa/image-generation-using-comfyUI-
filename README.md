@@ -1,6 +1,6 @@
 AI-Generated Images using Stable Diffusion & ComfyUI
 
-This repository contains a collection of AI-generated images created as part of my internship on Image Generation using Stable Diffusion & ComfyUI. The images showcase various cinematic and visually striking scenes generated using AI models.                                                                                                                                                                                               Technology Used
+This repository contains a collection of AI-generated images created as part of my internship on Image Generation using Stable Diffusion & ComfyUI. The images showcase various cinematic and visually striking scenes generated using AI models.                                                                                                                                                 Technology Used
 
 Stable Diffusion – AI model for text-to-image generation.
 
